@@ -3,5 +3,5 @@
 2. Duckk.
 3. Duckkk.
 //--Own parts
-4. This is Master.
-5. Master's testing conflict.
+4. This is Developer2.
+5. Developer2's testing conflict.
